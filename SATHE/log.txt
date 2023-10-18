@@ -1,0 +1,8 @@
+
+New Session: 
+time.struct_time(tm_year=2020, tm_mon=3, tm_mday=13, tm_hour=9, tm_min=0, tm_sec=53, tm_wday=4, tm_yday=73, tm_isdst=1)
+
+Left Detected: time.struct_time(tm_year=2020, tm_mon=3, tm_mday=13, tm_hour=9, tm_min=0, tm_sec=55, tm_wday=4, tm_yday=73, tm_isdst=1),
+Front Detected: time.struct_time(tm_year=2020, tm_mon=3, tm_mday=13, tm_hour=9, tm_min=0, tm_sec=55, tm_wday=4, tm_yday=73, tm_isdst=1),
+Right Detected: time.struct_time(tm_year=2020, tm_mon=3, tm_mday=13, tm_hour=9, tm_min=0, tm_sec=55, tm_wday=4, tm_yday=73, tm_isdst=1),
+Back Detected: time.struct_time(tm_year=2020, tm_mon=3, tm_mday=13, tm_hour=9, tm_min=0, tm_sec=56, tm_wday=4, tm_yday=73, tm_isdst=1),
